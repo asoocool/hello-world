@@ -1,0 +1,26 @@
+@media all and (min-width:768px) and (max-width:1024px)
+{
+	.MainView-resp
+	{
+		left:0px !important;
+		top:0px !important;
+		background-color:rgb(143, 184, 143) !important;
+	}
+	.MainView-resp > .ATextBox-Style:nth-child(1)
+	{
+		left:40px !important;
+		top:40px !important;
+	}
+	.MainView-resp > .AView-Style:nth-child(2)
+	{
+		width:100%;
+		left:0px !important;
+		top:190px !important;
+		background-color:rgb(255, 255, 0) !important;
+	}
+	.MainView-resp > .AView-Style:nth-child(2) > .AButton-Style:nth-child(1)
+	{
+		left:17px !important;
+		top:29px !important;
+	}
+}
