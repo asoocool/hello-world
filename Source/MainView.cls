@@ -7,7 +7,7 @@ class MainView()
 {
 	super();
 
-	//TODO:edit here
+	
 
 }
 extends AView;
